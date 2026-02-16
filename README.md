@@ -3,6 +3,9 @@ Study of machine learning for Itaú Unibanco.
 
 - Refreshing pandas and numpy knowledge
 - Dealing with missing values
+- Making the dataset uniform (lowercase, spaces, underscores, etc.)
+- Making EDA to understand data distribution (applying logarithmic)
+- How to remove the long tail from the data distribution
 - Implement regularization
 - Discovering weights values
 - Understanding how to split a dataset and why
