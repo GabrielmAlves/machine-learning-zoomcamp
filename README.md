@@ -1,6 +1,7 @@
 # machine-learning-zoomcamp
 Study of machine learning for Itaú Unibanco.
 
+# Car price prediction project
 - Refreshing pandas and numpy knowledge
 - Dealing with missing values
 - Making the dataset uniform (lowercase, spaces, underscores, etc.)
@@ -13,4 +14,5 @@ Study of machine learning for Itaú Unibanco.
 - Creating feature matrix
 - Feature engineering process to create new features
 - Understand how to deal with categorical variables and how to encode them
-- Project done: car price prediction using linear regression
+
+# Churn prediction
