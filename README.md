@@ -28,3 +28,5 @@ Identify customers that has potential churn decision and send them a promotional
 - Logistic regression usage
 - Understanding of sigmoid function
 - Interpretation the coefficients of logistic regression
+
+## Credit risk scoring
